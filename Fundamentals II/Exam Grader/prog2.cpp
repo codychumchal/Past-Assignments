@@ -1,5 +1,5 @@
 /******************************************************
-File Name: prog02_A04293582.cpp
+File Name: prog02.cpp
 
 Author: Cody Chumchal
 Date: 2/6/15
